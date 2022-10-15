@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eminbech
 - 👀 I’m interested in ML/AI and innovative solutions that will help humans to be happier day by day using Technology
-- 🌱 I’m currently learning aws cloud practitioner essential 
+- 🌱 I’m currently learning AWS cloud practitioner essential & solution architect
 - 📫 reach me on LinkedIn: https://www.linkedin.com/in/mohamed-amine-bechara-377225190/
 
 <!---
