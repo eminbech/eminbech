@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @eminbech -> https://www.instagram.com/eminbech/
-- 👀 I’m interested in ML/AI and innovative solutions that will help humans to be happier day by day using Technology/Automation
+- 👋 Hi, I’m Mohamed Amine, Bechara -> Just call me Amin =) 
+- 👀 I’m interested in ML/AI and innovative solutions that will help humans to be happier, day by day using Technology/Automation
 - 🌱 I’m currently learning and developing skills related to AWS Cloud Services. (AWS cloud practitioner certified)
 - 📫 reach me on LinkedIn: https://www.linkedin.com/in/mohamed-amine-bechara-377225190/
 ***
